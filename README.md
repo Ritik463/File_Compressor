@@ -1,3 +1,4 @@
+![imp_page-0001](https://github.com/Ritik463/File_Compressor/assets/98383851/40ff5080-2a5e-42cb-9099-d7f26f0dcf22)
 # File_Compressor
 Project On File Compression Using Huffman Coding
 File compression is the process of reducing the size of a file so that it takes up less storage space and can be transmitted or processed more efficiently. One popular technique for file compression is Huffman coding, which is a variable-length prefix coding algorithm.
